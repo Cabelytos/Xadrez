@@ -1,0 +1,9 @@
+c:\users\leonardo.teixeira\documents\visual studio 2017\Projects\Xadrez_Console\Xadrez_Console\bin\Debug\netcoreapp1.1\Xadrez_Console.deps.json
+c:\users\leonardo.teixeira\documents\visual studio 2017\Projects\Xadrez_Console\Xadrez_Console\bin\Debug\netcoreapp1.1\Xadrez_Console.runtimeconfig.json
+c:\users\leonardo.teixeira\documents\visual studio 2017\Projects\Xadrez_Console\Xadrez_Console\bin\Debug\netcoreapp1.1\Xadrez_Console.runtimeconfig.dev.json
+c:\users\leonardo.teixeira\documents\visual studio 2017\Projects\Xadrez_Console\Xadrez_Console\bin\Debug\netcoreapp1.1\Xadrez_Console.dll
+c:\users\leonardo.teixeira\documents\visual studio 2017\Projects\Xadrez_Console\Xadrez_Console\bin\Debug\netcoreapp1.1\Xadrez_Console.pdb
+c:\users\leonardo.teixeira\documents\visual studio 2017\Projects\Xadrez_Console\Xadrez_Console\obj\Debug\netcoreapp1.1\Xadrez_Console.csprojResolveAssemblyReference.cache
+c:\users\leonardo.teixeira\documents\visual studio 2017\Projects\Xadrez_Console\Xadrez_Console\obj\Debug\netcoreapp1.1\Xadrez_Console.AssemblyInfo.cs
+c:\users\leonardo.teixeira\documents\visual studio 2017\Projects\Xadrez_Console\Xadrez_Console\obj\Debug\netcoreapp1.1\Xadrez_Console.dll
+c:\users\leonardo.teixeira\documents\visual studio 2017\Projects\Xadrez_Console\Xadrez_Console\obj\Debug\netcoreapp1.1\Xadrez_Console.pdb
